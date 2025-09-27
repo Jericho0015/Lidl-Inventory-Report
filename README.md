@@ -1,4 +1,7 @@
-https://github.com/Jericho0015/Lidl-Inventory-Report/blob/main/Dashboard%20Screens/Screen1%20of%20Dashboard%20Capture.PNG
+## 📊 Dashboard Preview  
+
+![Lidl Inventory Dashboard](https://github.com/Jericho0015/Lidl-Inventory-Report/blob/main/Dashboard%20Screens/Screen1%20of%20Dashboard%20Capture.PNG)
+
 
 # 🛒 Lidl Inventory Insights: Power BI Dashboard
 Power BI dashboard providing real-time insights into Lidl’s inventory performance tracking stock levels, revenue, category-wise value, and sales trends to improve inventory management and decision-making.
