@@ -7,9 +7,13 @@ The Lidl Inventory Dashboard helps business managers monitor inventory turnover,
 ## Tech Stack
 This dashboard was developed using:
 📊 Power BI Desktop – Main visualization and reporting tool.
+
 📂 Power Query – Data cleaning and transformation for structured reporting.
+
 🧠 DAX (Data Analysis Expressions) – KPIs and calculated measures such as Inventory Turnover, Sell-through Rate, DOH.
+
 📝 Data Modeling – Relationships across sales, product, and store datasets for integrated insights.
+
 📁 File Format – .pbix for development and .png for preview.
 
 ## Data Source
