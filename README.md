@@ -20,7 +20,11 @@ This dashboard was developed using:
 Source: Simulated retail dataset for Lidl inventory and sales in csv.
 
 The dataset includes:
+
 📦 Product categories (Furniture, Groceries, Clothing, Toys, Electronics)
+
 💰 Sales transactions (units sold, total revenue)
+
 🏬 Regional sales data (East, West, North, South)
+
 📅 Monthly stock and sales overview
